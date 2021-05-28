@@ -9,7 +9,7 @@ This is where img2yaya becomes handy. It automatically generates grids from imag
 ## Installation
 
 ```sh
-cargo install --git https://github.com/AaronErhardt/img2yaya
+cargo install img2yaya
 ```
 
 ## Usage
