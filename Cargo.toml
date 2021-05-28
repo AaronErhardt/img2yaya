@@ -3,6 +3,10 @@ name = "img2yaya"
 version = "0.1.0"
 authors = ["Aaron Erhardt <aaron.erhardt@t-online.de>"]
 edition = "2018"
+license = "MIT"
+description = "Generate yayagram files from images"
+repository = "https://github.com/AaronErhardt/img2yaya"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
