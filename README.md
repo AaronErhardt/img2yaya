@@ -2,7 +2,7 @@
 
 ![yayagram image of ferris the crab created with img2yaya](images/ferris_yayagram.png)
 
-[Yayagram](https://github.com/r00ster91/yayagram) is a super neat nonogram puzzle game for the terminal. It either generates random girds or loads predefined girds from a file. It even features an editor to easily create your own grids. But let's be honest, creating grids isn't as much fun as playing them.
+[Yayagram](https://github.com/r00ster91/yayagram) is a super neat nonogram puzzle game for the terminal. It either generates random grids or loads predefined grids from a file. It even features an editor to easily create your own grids. But let's be honest, creating grids isn't as much fun as playing them.
 
 This is where img2yaya becomes handy. It automatically generates grids from images with the desired dimensions in just a couple of seconds.
 
