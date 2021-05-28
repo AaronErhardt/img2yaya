@@ -17,7 +17,7 @@ cargo install --git https://github.com/AaronErhardt/img2yaya
 + Print help
 
 ```sh
-img2yaya input.png
+img2yaya --help
 ```
 
 + Read image and output yayagram to stdout
