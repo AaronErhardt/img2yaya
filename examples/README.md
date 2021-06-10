@@ -7,3 +7,4 @@ Links to the original images:
 + [Tokio logo](https://github.com/tokio-rs/website/blob/master/public/favicon.ico)
 + [GNOME logo](https://foundation.gnome.org/logo-and-trademarks/)
 + [GNOME Builder logo](https://gitlab.gnome.org/GNOME/gnome-builder/-/blob/master/data/icons/hicolor/scalable/apps/org.gnome.Builder.svg)
++ [Ubuntu logo](https://design.ubuntu.com/brand/ubuntu-logo/)
