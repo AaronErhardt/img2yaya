@@ -9,3 +9,4 @@ Links to the original images:
 + [GNOME Builder logo](https://gitlab.gnome.org/GNOME/gnome-builder/-/blob/master/data/icons/hicolor/scalable/apps/org.gnome.Builder.svg)
 + [Ubuntu logo](https://design.ubuntu.com/brand/ubuntu-logo/)
 + [Arduino logo](https://www.arduino.cc/en/trademark)
++ [GitLab logo](https://about.gitlab.com/press/press-kit/)
