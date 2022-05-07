@@ -10,3 +10,5 @@ Links to the original images:
 + [Ubuntu logo](https://design.ubuntu.com/brand/ubuntu-logo/)
 + [Arduino logo](https://www.arduino.cc/en/trademark)
 + [GitLab logo](https://about.gitlab.com/press/press-kit/)
++ [GTK logo](https://gtk.org/)
++ [Relm4 organization logo](https://relm4.org/icons/relm4_org.svg)
